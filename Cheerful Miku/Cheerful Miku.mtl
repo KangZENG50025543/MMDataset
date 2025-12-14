@@ -1,0 +1,278 @@
+newmtl body
+map_Kd .\tga\body00_MikuAp_b.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 2; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl A_new
+map_Kd .\tga\body00_MikuAp_b.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 2; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl face00
+map_Kd .\tga\face_MikuAp_b.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 2; EdgeFlag GroundShadow
+d 1
+
+newmtl 首
+map_Kd .\tga\face_MikuAp_b.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 2; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl face01
+map_Kd .\tga\face_MikuAp_b.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 255; EdgeFlag GroundShadow, ReceiveShadowMap
+d 1
+
+newmtl eye_hi
+map_Kd .\tga\face_MikuAp_b.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 105
+#Toon 255; EdgeFlag 0
+d 1
+
+newmtl body03
+map_Kd .\tga\body02_MikuAp.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 6; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 水着下
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ns 50
+#Toon 6; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Arm
+map_Kd .\src\body.png
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 8; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Ponpon
+map_Kd .\src\dress.png
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 255; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Boots
+map_Kd .\src\dress.png
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 8; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Boots2
+map_Kd .\src\dress.png
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 11; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 0.99
+
+newmtl Chest
+map_Kd .\src\dress.png
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 0 0 0
+Ns 8
+#Toon 8; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Hood
+map_Kd .\src\dress.png
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 8; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Leg
+map_Kd .\src\body.png
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 11; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl Skirt
+map_Kd .\src\dress.png
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Skirt1
+map_Kd .\src\dress.png
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Soles
+map_Kd .\src\dress.png
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 0 0 0
+Ns 25
+#Toon 11; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Tie
+map_Kd .\src\dress.png
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 0 0 0
+Ns 8
+#Toon 11; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl HL4
+map_Kd .\src\Hart.png
+Ka 0.5019608 0.2509804 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 1
+#Toon 255; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl hair00
+map_Kd .\hair_MikuAp.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 16; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl hair01
+map_Kd .\hair_MikuAp.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 255; EdgeFlag GroundShadow
+d 1
+
+newmtl hairshadow
+map_Kd .\tga\face_MikuAp_b.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 255; EdgeFlag 0
+d 1
+
+newmtl Ribon
+map_Kd .\src\dress.png
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 11; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl lens
+map_Kd .\tga\body02_MikuAp.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 255; EdgeFlag 0
+d 1
+
+newmtl cheek
+map_Kd .\tga\face_MikuAp_b.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 255; EdgeFlag 0
+d 1
+
+newmtl Headset1
+map_Kd .\src\Headset.png
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 0 0 0
+Ns 25
+#Toon 11; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Headset2
+map_Kd .\src\Headset.png
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 0 0 0
+Ns 25
+#Toon 11; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Logo1
+map_Kd .\src\logo.png
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 0 0 0
+Ns 25
+#Toon 11; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Logo2
+map_Kd .\src\logo.png
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 0 0 0
+Ns 25
+#Toon 11; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Window
+map_Kd .\src\dress.png
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 11; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
