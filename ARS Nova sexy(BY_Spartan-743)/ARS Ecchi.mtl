@@ -1,0 +1,216 @@
+newmtl 身体_W_FacePartsB
+map_Kd .\t000.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 2; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 身体_ears
+map_Kd .\t000.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 3; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 身体_W_FacePartsB0
+map_Kd .\t000.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 2; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 身体_W_FacePartsA_CgfxShader
+map_Kd .\t000.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 3; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 身体_eye_w
+map_Kd .\t003.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 2; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 身体_ha
+map_Kd .\t000.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 2; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 身体_Shader_vagina2
+map_Kd .\t004.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 身体_Shader_Body2
+map_Kd .\t006.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 8; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 身体_Shader_Body
+map_Kd .\t008.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 8; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 新規
+map_Kd .\t008.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 8; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 身体_Sita
+map_Kd .\t009.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 前髪_hair
+map_Kd .\t011.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 14; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 頭皮_PantuFuriru_TEX
+map_Kd .\t014.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 14; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 瞳_Shade_eye
+map_Kd .\t015.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 19; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl ブラ_S_COVER_CgfxShader
+map_Kd .\t017.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 22; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl ブラ_SchoolM_V02
+map_Kd .\t019.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 22; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl パンツ_BIKINI
+map_Kd .\t021.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 22; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 靴_HIMO
+map_Kd .\t022.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 22; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 靴_BIKINI
+map_Kd .\t021.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 22; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 頭部装備_hat
+map_Kd .\t023.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 22; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl タイツ・ガーター_taitsu
+map_Kd .\t024.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 22; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl タイツ・ガーター_BIKINI
+map_Kd .\t021.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 22; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 腕装備_A
+map_Kd .\t025.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 9; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 眉毛_MAYU_CgfxShader
+map_Kd .\t027.bmp
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.15 0.15 0.15
+Ns 6
+#Toon 14; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
