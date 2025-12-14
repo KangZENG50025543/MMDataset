@@ -1,0 +1,207 @@
+newmtl body
+map_Kd .\tex/body.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0 0 0
+Ns 87.5
+#Toon 2; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl face
+map_Kd .\tex/face.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0 0 0
+Ns 87.5
+#Toon 2; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl face02
+map_Kd .\tex/face.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0 0 0
+Ns 87.5
+#Toon 255; EdgeFlag GroundShadow
+d 1
+
+newmtl face01
+map_Kd .\tex/eye.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+Ns 5
+#Toon 255; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl eye
+map_Kd .\tex/eye.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+Ns 5
+#Toon 255; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl eye2
+map_Kd .\tex/eye2.png
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+Ns 5
+#Toon 255; EdgeFlag GroundShadow, HasEdge
+d 1
+
+newmtl eye-hi
+map_Kd .\tex/eye.png
+Ka 0.9882353 0.9882353 0.9882353
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+#Toon 255; EdgeFlag 0
+d 1
+
+newmtl Expression
+map_Kd .\tex/body03.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 255; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl Expression3
+map_Kd .\tex/body03.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 255; EdgeFlag GroundShadow
+d 1
+
+newmtl Hair
+map_Kd .\tex/Hair.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0 0 0
+Ns 21.25
+#Toon 9; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl white
+map_Kd .\tex/white.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl white2
+map_Kd .\tex/white.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl Deep_purple
+map_Kd .\tex/Deep purple.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0.808 0.471 0.596
+Ns 65
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl black
+map_Kd .\tex/black.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0.22 0.149 0.251
+Ns 10
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Metallic
+map_Kd .\tex/Metallic.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0.875 0.875 0.875
+Ns 7.5
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl silica_gel
+map_Kd .\tex/Metallic.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0.875 0.875 0.875
+Ns 20
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl blue
+map_Kd .\tex/tiaozi.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow
+d 1
+
+newmtl Light_purple
+map_Kd .\tex/Light purple.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0.498 0.384 0.843
+Ns 5
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl red
+map_Kd .\tex/tiaozi.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow
+d 0.01
+
+newmtl orange
+map_Kd .\tex/tiaozi.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow
+d 0.01
+
+newmtl blue2
+map_Kd .\tex/tiaozi.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl arms
+map_Kd .\tex\arms.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0.25 0.25 0.25
+Ns 66.25
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl arms2
+map_Kd .\tex\arms.png
+Ka 0.4941176 0.4941176 0.4941176
+Kd 1 1 1
+Ks 0.237 0.237 0.237
+Ns 2.5
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
