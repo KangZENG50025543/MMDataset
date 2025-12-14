@@ -1,0 +1,234 @@
+newmtl 材質0
+map_Kd .\F_VITA_MIK053_HEADSET.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+#Toon 2; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質2
+map_Kd .\F_VITA_MIK053_SODE.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+#Toon 2; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質3
+map_Kd .\F_VITA_MIK053_OUTER.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+#Toon 2; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl wazi
+map_Kd .\F_VITA_MIK053_TIGHT.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+#Toon 2; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質6
+map_Kd .\F_VITA_MIK053_SHOES.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+#Toon 2; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質14
+map_Kd .\hair.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+#Toon 2; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質15
+map_Kd .\hair.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+#Toon 2; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質16
+map_Kd .\hair.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+#Toon 2; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl face0
+map_Kd .\tex/face.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 2
+#Toon 255; EdgeFlag DisableFaceCulling, GroundShadow
+d 1
+
+newmtl face1
+map_Kd .\tex/face.png
+Ka 0.4980392 0.4980392 0.4980392
+Kd 1 1 1
+Ks 0 0 0
+Ns 2
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl eye1
+map_Kd .\tex/face.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 2
+#Toon 255; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl eye2
+map_Kd .\tex/face.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 2
+#Toon 255; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl eye1+
+map_Kd .\tex/eye.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 2
+#Toon 255; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl eye2+
+map_Kd .\tex/eye.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 2
+#Toon 255; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl face2
+map_Kd .\tex/face.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 2
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl eyehi
+map_Kd .\tex/face.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 2
+#Toon 255; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Body00
+map_Kd .\tex/face.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.01176471 0.01176471 0.01176471
+Ns 34
+#Toon 15; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Body01
+map_Kd .\tex\body01.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.01176471 0.01176471 0.01176471
+Ns 2
+#Toon 17; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl wazi1
+map_Kd .\f_vita_mik053_tight.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.01176471 0.01176471 0.01176471
+Ns 2
+#Toon 17; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Theswimsuit
+map_Kd .\tex\body02.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 15; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Hair00
+map_Kd .\tex\hair01.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.05 0.05 0.05
+Ns 7
+#Toon 22; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Glasses00
+map_Kd .\tex\Glasses.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.06 0.06 0.06
+Ns 5
+#Toon 24; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl Glasses01
+map_Kd .\tex\Glasses.png
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.06 0.06 0.06
+Ns 5
+#Toon 24; EdgeFlag DisableFaceCulling, GroundShadow
+d 1
+
+newmtl face*
+map_Kd .\tex/face.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 2
+#Toon 255; EdgeFlag DisableFaceCulling, GroundShadow
+d 0.0001
+
+newmtl Body04
+map_Kd .\tex/face.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.04 0.04 0.04
+Ns 2
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow
+d 1
+
+newmtl Body03
+map_Kd .\tex/face.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0.04 0.04 0.04
+Ns 2
+#Toon 11; EdgeFlag DisableFaceCulling, GroundShadow
+d 1
+
