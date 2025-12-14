@@ -1,0 +1,224 @@
+newmtl 材质1
+map_Kd .\skin.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质2
+map_Kd .\bady.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质3
+map_Kd .\sapatin.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质4
+map_Kd .\meia.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质5
+map_Kd .\headset.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质6
+map_Kd .\shorts.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质7
+map_Kd .\01.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质8
+map_Kd .\n.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质9
+map_Kd .\sk.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质10
+map_Kd .\skin.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质11
+map_Kd .\fr.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质12
+map_Kd .\at.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质13
+map_Kd .\ch.png
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质14
+map_Kd .\ch.png
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质15
+map_Kd .\la.png
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag DisableFaceCulling, ReceiveShadowMap, ReceiveShadow
+d 0.99
+
+newmtl 材质16
+map_Kd .\la.png
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag DisableFaceCulling, ReceiveShadowMap, ReceiveShadow
+d 0.99
+
+newmtl 材质17
+map_Kd .\la.png
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质18
+map_Kd .\la.png
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质19
+map_Kd .\treta.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质20
+map_Kd .\face.png
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质21
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质22
+map_Kd .\s.png
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质23
+map_Kd .\face.png
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质24
+map_Kd .\eye.png
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材质25
+map_Kd .\face.png
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+#Toon 1; EdgeFlag ReceiveShadowMap, ReceiveShadow
+d 1
+
