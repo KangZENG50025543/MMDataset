@@ -1,0 +1,9 @@
+禁止用于商业化用途
+修改或者二次配布请注明模型来源
+
+模型建模：SEGA
+模型绑定，表情，物理：Melt_凌
+
+Don't use it for bussiness purpose.If you want to edit it or release it, please mark out the source of the model in the read me.
+
+Model by SEGA Melt_Lin
