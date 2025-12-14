@@ -1,0 +1,278 @@
+newmtl 材質14
+map_Kd .\tex/1.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.1058824 0.1058824 0.1058824
+Ns 5
+#Toon 2; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質15
+map_Kd .\tex/21.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.1058824 0.1058824 0.1058824
+Ns 5
+#Toon 2; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質17
+map_Kd .\tex/1.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.1058824 0.1058824 0.1058824
+Ns 5
+#Toon 4; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質21
+map_Kd .\tex/22.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 7; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質27
+map_Kd .\tex/3.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 255; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質23
+map_Kd .\tex/3.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 255; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質25
+map_Kd .\tex/2.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 255; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質6
+map_Kd .\tex/0.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.1058824 0.1058824 0.1058824
+Ns 5
+#Toon 2; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 新規
+map_Kd .\tex/1.jpg
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質7
+map_Kd .\tex/7.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質11
+map_Kd .\tex/4.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質12
+map_Kd .\tex/5.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質0
+map_Kd .\tex/6.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質1
+map_Kd .\tex/13.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 新規1
+map_Kd .\tex/14.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質16
+map_Kd .\tex/19.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質17
+map_Kd .\tex/16.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質18
+map_Kd .\tex/1.bmp
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質19
+map_Kd .\tex/15.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質110
+map_Kd .\tex/17.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質111
+map_Kd .\tex/20.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質112
+map_Kd .\tex/12.PNG
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質113
+map_Kd .\tex/11.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質114
+map_Kd .\tex/8.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質2
+map_Kd .\tex/11.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質5
+map_Kd .\tex/18.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質115
+Ka 0 0.2862745 0.4235294
+Kd 0 0.5019608 1
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 材質116
+map_Kd .\tex/1.jpg
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 新規2
+map_Kd .\tex/9.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 新規3
+map_Kd .\tex/10.png
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 頭部装備_ribbon
+map_Kd .\tex/2.bmp
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0 0 0
+Ns 5
+#Toon 14; EdgeFlag GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+

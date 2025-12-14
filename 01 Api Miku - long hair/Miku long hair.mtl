@@ -1,0 +1,270 @@
+newmtl 肌
+map_Kd .\Amiku1.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 2; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 顔
+map_Kd .\Amiku1.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 3; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 肌エッジ無
+map_Kd .\Amiku1.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 3; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 瞳
+map_Kd .\Amiku1.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 3; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 肌エッジ無2
+map_Kd .\Amiku1.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 3; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 髪
+map_Kd .\Amiku2.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 7; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 髪影
+map_Kd .\Amiku1.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 3; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 髪裏
+map_Kd .\Amiku2.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 7; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 服黒
+map_Kd .\Amiku3.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 10; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 新規
+map_Kd .\Amiku3.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 10; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 服黒発光
+map_Kd .\Amiku3.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 103
+#Toon 12; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 服
+map_Kd .\Amiku4.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 100.2
+#Toon 15; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 服2
+map_Kd .\Amiku6.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 18; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 服3
+map_Kd .\Amiku6.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 19; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 服エッジ無
+map_Kd .\Amiku4.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 101
+#Toon 15; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 服エッジ無2
+map_Kd .\Amiku4.png
+Ka 0.5 0.5 0.5
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 15; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow
+d 1
+
+newmtl 後頭部下
+map_Kd .\Amiku2.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 7; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 髪サイド00
+map_Kd .\Amiku2.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 7; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 髪サイド01
+map_Kd .\Amiku2.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 7; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 髪サイド02
+map_Kd .\Amiku2.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 7; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 髪中1
+map_Kd .\Amiku2.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 7; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 髪中3
+map_Kd .\Amiku2.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 7; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 髪中右0
+map_Kd .\Amiku2.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 7; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 髪中右1
+map_Kd .\Amiku2.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 7; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 髪中左0
+map_Kd .\Amiku2.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 7; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 髪中左１
+map_Kd .\Amiku2.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 7; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 細髪中左
+map_Kd .\Amiku2.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 103
+#Toon 7; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 細髪中右
+map_Kd .\Amiku2.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 103
+#Toon 7; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 細髪中
+map_Kd .\Amiku2.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 103
+#Toon 7; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 細髪サイド
+map_Kd .\Amiku2.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 103
+#Toon 7; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
