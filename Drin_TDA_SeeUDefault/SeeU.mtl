@@ -1,0 +1,283 @@
+newmtl face00
+map_Kd .\tga\face_MikuAp_b.tga
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 2; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl face01
+map_Kd .\tga\face_MikuAp_b.tga
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 255; EdgeFlag DisableFaceCulling, GroundShadow
+d 1
+
+newmtl eye_hi
+map_Kd .\tga\face_MikuAp_b.tga
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 105
+#Toon 255; EdgeFlag DisableFaceCulling, GroundShadow
+d 1
+
+newmtl eye_hi2
+map_Kd .\tga\face_MikuAp_b.tga
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 102
+#Toon 255; EdgeFlag DisableFaceCulling, GroundShadow
+d 1
+
+newmtl 水着下
+map_Kd .\tga\miku_sw.tga
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 255; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl Nails
+map_Kd .\tga\body00_MikuAp_b.tga
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl body
+map_Kd .\tga\body00_MikuAp_b.tga
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 2; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl body03
+map_Kd .\tga\body02_MikuAp.tga
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl 首
+map_Kd .\tga\face_MikuAp_b.tga
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 2; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl lens
+map_Kd .\tga\body02_MikuAp.tga
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow
+d 1
+
+newmtl cheek
+map_Kd .\tga\face_MikuAp_b.tga
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 255; EdgeFlag DisableFaceCulling, GroundShadow
+d 1
+
+newmtl おみあし
+map_Kd .\tga/k_Asi2.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl ブラウス
+map_Kd .\tga/k_huku2.png
+Ka 0.5019608 0.2509804 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl 光る1
+map_Kd .\tga/k_hika.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl スカート腕ヘドフォン
+map_Kd .\tga/k_huku1.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl Material2
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Ns 20
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl Material3
+Ka 0.275 0.816 1
+Kd 0 0 0
+Ks 0 0 0
+Ns 0
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl Material4
+Ka 1 0.878 0.255
+Kd 0 0 0
+Ks 0 0 0
+Ns 0
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl Material5
+Ka 1 0.298 0.373
+Kd 0 0 0
+Ks 0 0 0
+Ns 0
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl Material0
+map_Kd .\tga/k_huku2.png
+Ka 0.5019608 0.2509804 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl Material1
+map_Kd .\tga/k_huku2.png
+Ka 0.5019608 0.2509804 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl Material01
+map_Kd .\tga/k_huku1.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 6
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl Material02
+map_Kd .\tga/k_huku2.png
+Ka 0.5019608 0.2509804 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl Material11
+map_Kd .\tga/dis.tga
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl Material21
+map_Kd .\tga/button.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl Material31
+map_Kd .\tga/sw.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl Material03
+map_Kd .\tga/k_huku2.png
+Ka 0.5019608 0.2509804 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl Material12
+map_Kd .\tga/k_huku1.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl Material22
+map_Kd .\tga/k_huku2.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+#Toon 6; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl hair01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 255; EdgeFlag DisableFaceCulling, GroundShadow
+d 1
+
+newmtl hair00
+map_Kd .\tga/h4.png
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 20; EdgeFlag DisableFaceCulling, GroundShadow, HasEdge
+d 1
+
+newmtl hairshadow
+map_Kd .\tga\face_MikuAp_b.tga
+Ka 0.5019608 0.5019608 0.5019608
+Kd 1 1 1
+Ks 0 0 0
+Ns 50
+#Toon 255; EdgeFlag DisableFaceCulling, GroundShadow
+d 1
+
