@@ -1,0 +1,114 @@
+newmtl 白目
+Ka 1 0.85 0.9
+Kd 0.37 0.31 0.33
+Ks 0 0 0
+Ns 0
+#Toon 255; EdgeFlag GroundShadow
+d 1
+
+newmtl 瞳
+map_Kd .\tx\eye012.jpg
+Ka 1 1 1
+Kd 0 0 0
+Ks 0 0 0
+Ns 9.6
+#Toon 255; EdgeFlag GroundShadow
+d 0.9
+
+newmtl 髪
+map_Kd .\tx\m_hear_3x2_01.jpg
+Ka 0.91 0.91 0.91
+Kd 0.19 0.19 0.19
+Ks 0.05 0.05 0.05
+Ns 1
+#Toon 2; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 顔
+map_Kd .\tx\m_head_02.jpg
+Ka 0.88 0.88 0.88
+Kd 0.13 0.13 0.13
+Ks 0 0 0
+Ns 0
+#Toon 255; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 顔の中
+map_Kd .\tx\m_head_02.jpg
+Ka 0.88 0.88 0.88
+Kd 0.13 0.13 0.13
+Ks 0 0 0
+Ns 0
+#Toon 255; EdgeFlag 0
+d 1
+
+newmtl 爪
+Ka 0.002941 0.162745 0.215686
+Kd 0.011765 0.65098 0.862745
+Ks 0.239 0.239 0.239
+Ns 5
+#Toon 4; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 足
+map_Kd .\tx\reg01.jpg
+Ka 1 0.65 0.7
+Kd 0.15 0.1 0.1
+Ks 0.03 0.03 0.03
+Ns 5
+#Toon 4; EdgeFlag GroundShadow, ReceiveShadow, HasEdge
+d 1
+
+newmtl パンツ
+map_Kd .\tx\reg01.jpg
+Ka 0.8 0.85 0.85
+Kd 0.12 0.12 0.12
+Ks 0.03 0.03 0.03
+Ns 5
+#Toon 4; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 手
+map_Kd .\tx\hada01.jpg
+Ka 0.88 0.88 0.88
+Kd 0.13 0.13 0.13
+Ks 0 0 0
+Ns 0
+#Toon 255; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl ブーツ
+map_Kd .\tx\reg01.jpg
+Ka 0.22 0.22 0.22
+Kd 1 1 1
+Ks 0.12 0.12 0.12
+Ns 4
+#Toon 4; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 上着胴体
+map_Kd .\tx\sutajan03.jpg
+Ka 0.8 0.8 0.8
+Kd 0.5 0.5 0.5
+Ks 0 0 0
+Ns 100
+#Toon 4; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl 上着袖
+map_Kd .\tx\sutajan03.jpg
+Ka 0.8 0.8 0.8
+Kd 0.5 0.5 0.5
+Ks 0 0 0
+Ns 100
+#Toon 4; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
+newmtl ポタン
+Ka 0.01851 0.013804 0.012235
+Kd 0.178157 0.132863 0.117765
+Ks 0.69 0.69 0.69
+Ns 50
+#Toon 4; EdgeFlag DisableFaceCulling, GroundShadow, ReceiveShadowMap, ReceiveShadow, HasEdge
+d 1
+
